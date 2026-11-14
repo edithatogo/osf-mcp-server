@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using the metadata in this file. For upstream
+  work, also follow the citation guidance at https://github.com/SourceShift/osf-mcp-server.
+title: OSF MCP Server (edithatogo fork)
+authors:
+- name: Researcher Team
+repository-code: https://github.com/edithatogo/osf-mcp-server
